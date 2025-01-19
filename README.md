@@ -3,7 +3,7 @@ A tool for predicting the risk of intraoperative massive bleeding in patients wi
 Instructions for use:
 This tool is used to predict whether patients with spinal metastatic cancer will experience massive bleeding during surgery.
 Open the ''master'', click Download ZIP and unzip it.
-
+image/图片1.png
 
 After unzipping the folder, click Start Up and the tool will run automatically.
 
